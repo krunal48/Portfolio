@@ -41,6 +41,9 @@ operational efficiency.
 • Designed and developed custom electronic solutions for clients, improving product delivery timelines by 10%.
 • Analysed customer requirements and provided tailored sales solutions, contributing to a 20% growth in sales revenue.
 
+## Projects
+[![GitHub](https://img.shields.io/badge/GitHub-krunal48-black?style=flat&logo=github)](https://github.com/krunal48)
+
 ## Education
 ### University of London, Birkbeck
 <span style="float: right;">October 2023- October 2024</span>
