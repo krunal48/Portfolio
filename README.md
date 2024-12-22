@@ -1,4 +1,3 @@
-# Krunal-Portfolio
 
 ### Connect with me
 
@@ -63,6 +62,7 @@ food reviews and their potential impact on business decisions.
 ##### Accenture North America - Data Analytics and Visualization Job Simulation
 
 
-### 📫 Let's Connect!
-- 📧 Email: krunalsoni48@gmail.com
-- 📱 Phone: +44-77707 39873
+### Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krunal--soni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krunal-v-soni/)
+[![Gmail](https://img.shields.io/badge/Gmail-krunalsoni48@gmail.com-red?style=flat&logo=gmail)](mailto:krunalsoni48@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-krunal48-black?style=flat&logo=github)](https://github.com/krunal48)
