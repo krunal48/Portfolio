@@ -59,7 +59,7 @@ food reviews and their potential impact on business decisions.
 #### 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
 #### Microsoft Excel from Beginner to Advanced (Udemy)
 #### Tableau 2024 A-Z: Hands-On Tableau Training for Data Science (Udemy)
-##### Accenture North America - Data Analytics and Visualization Job Simulation
+#### Accenture North America - Data Analytics and Visualization Job Simulation
 
 
 ### Let's Connect!
