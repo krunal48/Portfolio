@@ -10,11 +10,11 @@
 Highly motivated and analytical Data Analyst with an MSc in Business Analytics and a strong foundation in data analysis, visualisation, and business intelligence. Proven experience managing sales, inventory, and supply chain operations using data- driven strategies. Seeking to leverage my technical skills in Power BI, SQL, and Python to deliver actionable insights and drive strategic decisions in a dynamic organisation.
 
 ## Technical Skills
-- Data Analysis Tools: Power BI, Tableau, Excel (Advanced)
-- Programming: SQL, Python (NumPy, Pandas, Matplotlib, Scikit-learn)
-- Data Management: ETL processes, database creation, and data cleaning
-- Statistical Analysis: Regression analysis, hypothesis testing, descriptive statistics
-- Supply Chain Tools: Inventory Management Software Odoo and Linnworks
+- **Data Analysis Tools**: Power BI, Tableau, Excel (Advanced)
+- **Programming**: SQL, Python (NumPy, Pandas, Matplotlib, Scikit-learn)
+- **Data Management**: ETL processes, database creation, and data cleaning
+- **Statistical Analysis**: Regression analysis, hypothesis testing, descriptive statistics
+- **Supply Chain Tools**: Inventory Management Software Odoo and Linnworks
 
 ## Professional Experience
 ### Digital for Humanity, London 
